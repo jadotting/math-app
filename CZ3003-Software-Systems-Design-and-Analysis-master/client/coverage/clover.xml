@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1571238221383" clover="3.2.0">
+  <project timestamp="1571238221383" name="All files">
+    <metrics statements="122" coveredstatements="0" conditionals="705" coveredconditionals="0" methods="322" coveredmethods="0" elements="1149" coveredelements="0" complexity="0" loc="122" ncloc="122" packages="4" files="14" classes="14"/>
+    <package name="client">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="babel.config.js" path="/Users/sengwee/Desktop/CZ3003-Software-Systems-Design-and-Analysis/client/babel.config.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+      <file name="vue.config.js" path="/Users/sengwee/Desktop/CZ3003-Software-Systems-Design-and-Analysis/client/vue.config.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="client.coverage.lcov-report">
+      <metrics statements="106" coveredstatements="0" conditionals="323" coveredconditionals="0" methods="52" coveredmethods="0"/>
+      <file name="block-navigation.js" path="/Users/sengwee/Desktop/CZ3003-Software-Systems-Design-and-Analysis/client/coverage/lcov-report/block-navigation.js">
+        <metrics statements="28" coveredstatements="0" conditionals="15" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="55" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+      </file>
+      <file name="prettify.js" path="/Users/sengwee/Desktop/CZ3003-Software-Systems-Design-and-Analysis/client/coverage/lcov-report/prettify.js">
+        <metrics statements="1" coveredstatements="0" conditionals="286" coveredconditionals="0" methods="29" coveredmethods="0"/>
+        <line num="2" count="0" type="cond" truecount="0" falsecount="286"/>
+      </file>
+      <file name="sorter.js" path="/Users/sengwee/Desktop/CZ3003-Software-Systems-Design-and-Analysis/client/coverage/lcov-report/sorter.js">
+        <metrics statements="77" coveredstatements="0" conditionals="22" coveredconditionals="0" methods="17" coveredmethods="0"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="64" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="86" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="94" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="100" count="0" type="stmt"/>
+        <line num="101" count="0" type="stmt"/>
+        <line num="102" count="0" type="stmt"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="107" count="0" type="stmt"/>
+        <line num="108" count="0" type="stmt"/>
+        <line num="113" count="0" type="stmt"/>
+        <line num="114" count="0" type="stmt"/>
+        <line num="116" count="0" type="stmt"/>
+        <line num="117" count="0" type="stmt"/>
+        <line num="121" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="129" count="0" type="stmt"/>
+        <line num="130" count="0" type="stmt"/>
+        <line num="132" count="0" type="stmt"/>
+        <line num="133" count="0" type="stmt"/>
+        <line num="135" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="136" count="0" type="stmt"/>
+        <line num="138" count="0" type="stmt"/>
+        <line num="139" count="0" type="stmt"/>
+        <line num="140" count="0" type="stmt"/>
+        <line num="141" count="0" type="stmt"/>
+        <line num="142" count="0" type="stmt"/>
+        <line num="145" count="0" type="stmt"/>
+        <line num="146" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="149" count="0" type="stmt"/>
+        <line num="150" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="151" count="0" type="stmt"/>
+        <line num="153" count="0" type="stmt"/>
+        <line num="159" count="0" type="stmt"/>
+        <line num="160" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="161" count="0" type="stmt"/>
+        <line num="163" count="0" type="stmt"/>
+        <line num="164" count="0" type="stmt"/>
+        <line num="165" count="0" type="stmt"/>
+        <line num="166" count="0" type="stmt"/>
+        <line num="170" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="client.dist">
+      <metrics statements="7" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="precache-manifest.13972d8eb4a6c9ede8453dcef46d78e8.js" path="/Users/sengwee/Desktop/CZ3003-Software-Systems-Design-and-Analysis/client/dist/precache-manifest.13972d8eb4a6c9ede8453dcef46d78e8.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+      <file name="service-worker.js" path="/Users/sengwee/Desktop/CZ3003-Software-Systems-Design-and-Analysis/client/dist/service-worker.js">
+        <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="client.dist.js">
+      <metrics statements="7" coveredstatements="0" conditionals="380" coveredconditionals="0" methods="270" coveredmethods="0"/>
+      <file name="app.f9625f29.js" path="/Users/sengwee/Desktop/CZ3003-Software-Systems-Design-and-Analysis/client/dist/js/app.f9625f29.js">
+        <metrics statements="1" coveredstatements="0" conditionals="153" coveredconditionals="0" methods="99" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="153"/>
+      </file>
+      <file name="chunk-218764ea.ec897bd2.js" path="/Users/sengwee/Desktop/CZ3003-Software-Systems-Design-and-Analysis/client/dist/js/chunk-218764ea.ec897bd2.js">
+        <metrics statements="1" coveredstatements="0" conditionals="53" coveredconditionals="0" methods="32" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="53"/>
+      </file>
+      <file name="chunk-25523c3c.97a54f6c.js" path="/Users/sengwee/Desktop/CZ3003-Software-Systems-Design-and-Analysis/client/dist/js/chunk-25523c3c.97a54f6c.js">
+        <metrics statements="1" coveredstatements="0" conditionals="23" coveredconditionals="0" methods="25" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="23"/>
+      </file>
+      <file name="chunk-368cd3a0.3126215a.js" path="/Users/sengwee/Desktop/CZ3003-Software-Systems-Design-and-Analysis/client/dist/js/chunk-368cd3a0.3126215a.js">
+        <metrics statements="1" coveredstatements="0" conditionals="29" coveredconditionals="0" methods="31" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="29"/>
+      </file>
+      <file name="chunk-5d27271e.53c05cd9.js" path="/Users/sengwee/Desktop/CZ3003-Software-Systems-Design-and-Analysis/client/dist/js/chunk-5d27271e.53c05cd9.js">
+        <metrics statements="1" coveredstatements="0" conditionals="63" coveredconditionals="0" methods="42" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="63"/>
+      </file>
+      <file name="chunk-635793e4.c62e6f11.js" path="/Users/sengwee/Desktop/CZ3003-Software-Systems-Design-and-Analysis/client/dist/js/chunk-635793e4.c62e6f11.js">
+        <metrics statements="1" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="12" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="6"/>
+      </file>
+      <file name="test.0f7050b3.js" path="/Users/sengwee/Desktop/CZ3003-Software-Systems-Design-and-Analysis/client/dist/js/test.0f7050b3.js">
+        <metrics statements="1" coveredstatements="0" conditionals="53" coveredconditionals="0" methods="29" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="53"/>
+      </file>
+    </package>
+  </project>
+</coverage>
